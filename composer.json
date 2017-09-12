@@ -1,0 +1,18 @@
+{
+    "name": "tinywan/luapackagist",
+    "description": "tinywan an example of composer packagist",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Tinywan",
+            "email": "756684177@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LuaPackagist\\": "src/"
+        }
+    }
+}
