@@ -1,6 +1,5 @@
 ## Tinywan First Packages
 
-### How this library works:
 This is Tinywan Test
 
 ## Installation
