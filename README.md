@@ -7,5 +7,5 @@ This is Tinywan Test
 The recommended way to install PHP7 is through [Composer](https://getcomposer.org).
 
 ```bash
-$ composer require tinywan/luapackagist
+$ composer require MisssYang/luapackagist
 ```
