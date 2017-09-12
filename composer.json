@@ -1,11 +1,11 @@
 {
-    "name": "tinywan/luapackagist",
+    "name": "MisssYang/luapackagist",
     "description": "tinywan an example of composer packagist",
     "license": "MIT License",
     "authors": [
         {
-            "name": "Tinywan",
-            "email": "756684177@qq.com"
+            "name": "MisssYang",
+            "email": "1722318623@qq.com
         }
     ],
     "minimum-stability": "dev",
